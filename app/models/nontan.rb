@@ -1,0 +1,2 @@
+class Nontan < ApplicationRecord
+end
